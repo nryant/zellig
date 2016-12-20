@@ -1,0 +1,7 @@
+To install globally:
+
+    sudo python setup.py install
+
+To build the C extension modules in place:
+
+    python setup.py build_ext --inplace
