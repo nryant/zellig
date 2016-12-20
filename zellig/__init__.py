@@ -1,3 +1,3 @@
 from .embeddings import Embedding
 
-__all__ = ['Embedding]
+__all__ = ['Embedding']
